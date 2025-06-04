@@ -61,6 +61,9 @@ article .imagen{
     .conteiner{
         grid-template-columns: 1fr;
     }
+    .article{
+        flex-direction: column;
+    }
     nav{
         position: fixed;
         bottom: 0;
